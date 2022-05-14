@@ -7,7 +7,7 @@ I have implemented the main feature of search with eleastic search.
 
 which is also called external indexing.
 
-Instead of using any paid tools , this apporch is effective for built in search engine.
+Instead of using any paid tools , this apporch is effective for build search engine.
 
 Logshtash is also good way to integrate the data to elastic search , but it brings complexity.
 
